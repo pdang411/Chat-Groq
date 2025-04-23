@@ -1,0 +1,11 @@
+google-generativeai
+openai
+speechrecognition
+pygame
+pyaudio
+pydub
+gtts
+pyttsx3
+python-dotenv
+gradio
+streamlit
