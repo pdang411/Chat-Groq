@@ -23,3 +23,5 @@ for mac https://www.youtube.com/watch?v=Kg1Yvry_Ydk
 cd my-project/ virtualenv venv
 
 source venv/bin/activate
+
+It is really fast responses from groq have fun.
